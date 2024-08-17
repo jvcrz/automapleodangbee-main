@@ -1,0 +1,17 @@
+GitPython
+keyboard
+mss
+numpy
+opencv-python-headless
+opencv-contrib-python
+Pillow
+pygame
+pywin32
+pywinauto
+tensorflow
+pynput
+pywinio
+clipboard
+requests
+matplotlib
+python-dotenv

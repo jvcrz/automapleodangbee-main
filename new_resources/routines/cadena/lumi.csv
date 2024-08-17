@@ -1,0 +1,4 @@
+*, x=51, y=44, frequency=1, skip=False, adjust=False, active_if_in_x_range=, active_if_in_y_range=, active_if_not_in_x_range=, active_if_not_in_y_range=, active_if_skill_ready=, active_if_skill_cd=, active_if_in_skill_buff=, active_if_not_in_skill_buff=
+    Walk, direction=right, duration=1
+*, x=72, y=44, frequency=1, skip=False, adjust=False, active_if_in_x_range=, active_if_in_y_range=, active_if_not_in_x_range=, active_if_not_in_y_range=, active_if_skill_ready=, active_if_skill_cd=, active_if_in_skill_buff=, active_if_not_in_skill_buff=
+    CustomKey, name=, key=x, direction=, jump=false, delay=0.5, rep=1, rep_interval=0.3, rep_interval_increase=0, duration=0, cool_down=0, ground_skill=true, buff_time=, active_if_skill_ready=, active_if_skill_cd=, active_if_in_skill_buff=, active_if_not_in_skill_buff=

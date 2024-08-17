@@ -1,0 +1,12 @@
+__pycache__/
+assets/models/
+.idea/
+.settings/
+recording/
+.tmp*
+
+.env
+legion_*
+testing/*
+src/common/mvp/*
+plot.png
